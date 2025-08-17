@@ -18,7 +18,7 @@ I am a Design Engineer specializing in FPGA and RTL development for image signal
 ## 🛠️ Technical Skills
 
 - **Languages:** SystemVerilog, Verilog, Python, C, TCL scripting, Makefile  
-- **Tools & Frameworks:** Xilinx Vivado & Vitis, Efinix Efinity, QuestaSim, ModelSim, Quartus Prime, Git, APB3‑to‑AXI4‑Lite  
+- **Tools & Frameworks:** Xilinx Vivado & Vitis, Efinix Efinity, QuestaSim, ModelSim, Quartus Prime, Git, Cocotb  
 - **Domains:** FPGA Design & Integration, HDR & SDR Image Signal Processing, Digital Systems Design, RTL Verification
 
 ---
@@ -46,6 +46,6 @@ Check out my work: [github.com/mfaizan-10xe](https://github.com/mfaizan-10xe)
 
 **B.Sc. Electrical Engineering**  
 University of Engineering and Technology Lahore, Pakistan  
-Relevant Coursework: Computer Architecture, Digital Systems Design, VLSI, DSP, Machine Learning, Networks
+Relevant Coursework: Computer Architecture, Digital Systems Design, VLSI, Computer Networks, Digital Signal Processing, Programming Fundamentals, Calculus, Linear Algebra
 
 ---
