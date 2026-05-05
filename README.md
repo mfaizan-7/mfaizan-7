@@ -29,7 +29,7 @@ I am a Design Engineer specializing in FPGA and RTL development for image signal
 - **Sharpening Module for Infinite‑ISP:** Designed RTL module to enhance edge clarity and texture details.  
 - **Infinite‑ISP FPGA Integrations:** Integrated ISP cores on multiple FPGA platforms with various image sensors.
 
-Check out my work: [github.com/mfaizan-10xe](https://github.com/mfaizan-10xe)
+Check out my work: [github.com/mfaizan-7](https://github.com/mfaizan-7)
 
 ---
 
