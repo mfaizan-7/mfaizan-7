@@ -2,7 +2,7 @@
 
 ## 👋 Hi Muhammad Faizan Here
 
-[![GitHub](https://img.shields.io/badge/GitHub-mfaizan--10xe-black?logo=github)](https://github.com/mfaizan-10xe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadfaizan-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-faizan-8044682a2)
+[![GitHub](https://img.shields.io/badge/GitHub-mfaizan--7-black?logo=github)](https://github.com/mfaizan-7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadfaizan-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-faizan-8044682a2)
 
 Email: [muhammadfaizanm00@gmail.com](mailto:muhammadfaizanm00@gmail.com)  
 Phone: +92 (340) 7663425
